@@ -47,6 +47,6 @@
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>  
-<br>
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vic452700&show_icons=true&locale=en&layout=compact" alt="vic452700" /></p>
